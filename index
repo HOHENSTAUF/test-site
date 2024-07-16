@@ -1,0 +1,17 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset=utf-8">
+<title>A Simple HTML Example</title>
+<style>
+p {text-align:center;}
+</style>
+</head>
+<body>
+<h1>This is a header</h1>
+<p>This is a paragraph, centered on the page.</p>
+<p>And this is the <strong>embedded Ecwid button</strong>.</p>
+<div class="ecsp ecsp-SingleProduct-v2 ecsp-SingleProduct-v2-bordered ecsp-SingleProduct-v2-centered ecsp-Product ec-Product-680648310" itemscope itemtype="http://schema.org/Product" data-single-product-id="680648310"><div itemprop="image"></div><div class="ecsp-title" itemprop="name" content="The digital release (pre-order)"></div><div itemtype="http://schema.org/Offer" itemscope itemprop="offers"><div class="ecsp-productBrowser-price ecsp-price" itemprop="price" content="49.99" data-spw-price-location="button"><div itemprop="priceCurrency" content="GEL"></div></div></div><div customprop="options"></div><div customprop="qty"></div><div customprop="addtobag"></div></div><script data-cfasync="false" type="text/javascript" src="https://app.ecwid.com/script.js?106363769&data_platform=singleproduct_v2" charset="utf-8"></script><script type="text/javascript">xProduct()</script>
+
+</body>
+</html>
